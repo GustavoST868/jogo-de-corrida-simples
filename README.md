@@ -1,9 +1,3 @@
-# jogo-de-corrida-simples
-Projeto feito para treinar noções simples de programação.
-Aqui está uma sugestão de README para o seu projeto, estruturado de maneira simples para explicar o funcionamento de cada classe:
-
----
-
 # Projeto de Jogo de Corrida
 
 Este projeto é um jogo de corrida básico em Java, desenvolvido com uma interface gráfica que permite a escolha de carros e a alternância de imagens utilizando o teclado.
